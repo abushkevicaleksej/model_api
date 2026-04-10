@@ -3,5 +3,7 @@ uvicorn
 python-multipart
 pillow
 numpy
-tensorflow
-huggingface_hub
+torch
+torchvision
+transformers
+python-multipart
